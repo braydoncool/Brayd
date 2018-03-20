@@ -91,4 +91,4 @@ async def kick(ctx,user: discord.Member):
     
     
 
-bot.run("NDI1MDUxMDkwODYyNDczMjE5.DZBzcg.Eix62MH0CXOxEx6_P44HUhCxHEI")
+bot.run(process.env.BOT_TOKEN)
